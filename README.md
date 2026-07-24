@@ -2,7 +2,7 @@
 
 > Santali Programming Language for the Ol Chiki Script
 
-OlChikiLang is a programming language developed by **Disom Labs** for the Santali language using the **Ol Chiki** script. It aims to make programming more accessible to Santali speakers by enabling coding in their native writing system.
+OlChikiLang is a programming language developed by **HansdaTechs** for the Santali language using the **Ol Chiki** script. It aims to make programming more accessible to Santali speakers by enabling coding in their native writing system.
 ---
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Status](https://img.shields.io/badge/status-active-green)
@@ -75,7 +75,7 @@ Contributions, bug reports, feature requests, and suggestions are welcome.
 
 ## Developed By
 
-### Disom Labs
+### HansdaTechs
 
 Building Technology Beyond Language Barriers.
 
