@@ -1,9 +1,19 @@
-# OlChikiLang
+ <p align="center">
+  <a href="https://ibb.co/0y1C18XL">
+    <img src="https://i.ibb.co/60GHGVZS/logo.png" alt="OlChikiLang Logo" width="220">
+  </a>
+</p>
 
-> Santali Programming Language for the Ol Chiki Script
+<h1 align="center">OlChikiLang</h1>
+
+<p align="center">
+  <strong>Santali Programming Language for the Ol Chiki Script</strong>
+</p>
 
 OlChikiLang is a programming language developed by **HansdaTechs** for the Santali language using the **Ol Chiki** script. It aims to make programming more accessible to Santali speakers by enabling coding in their native writing system.
+
 ---
+
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Status](https://img.shields.io/badge/status-active-green)
 ![Language](https://img.shields.io/badge/language-Santali-orange)
@@ -11,6 +21,7 @@ OlChikiLang is a programming language developed by **HansdaTechs** for the Santa
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
+
 ## Features
 
 * Native Ol Chiki syntax
